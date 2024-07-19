@@ -1,0 +1,88 @@
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Cópia\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Cópia\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Cópia\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Cópia\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Cópia\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Cópia\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Cópia\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Cópia\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Cópia\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Cópia\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Cópia\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last Las\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last Las\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last Las\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last Las\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last Las\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last Las\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last Las\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last Las\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last Las\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last Las\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last Las\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last Las experimentar se consigo meter destino = origem\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last Las experimentar se consigo meter destino = origem\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last Las experimentar se consigo meter destino = origem\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last Las experimentar se consigo meter destino = origem\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last Las experimentar se consigo meter destino = origem\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last Las experimentar se consigo meter destino = origem\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last Las experimentar se consigo meter destino = origem\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last Las experimentar se consigo meter destino = origem\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last Las experimentar se consigo meter destino = origem\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last Las experimentar se consigo meter destino = origem\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - Last Last Las experimentar se consigo meter destino = origem\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - meter para manter a msm rota\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - meter para manter a msm rota\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - meter para manter a msm rota\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - meter para manter a msm rota\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - meter para manter a msm rota\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - meter para manter a msm rota\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - meter para manter a msm rota\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - meter para manter a msm rota\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - meter para manter a msm rota\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - meter para manter a msm rota\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Projeto_Aeronautica - meter para manter a msm rota\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Mauro Cunha - Projeto_Aeronautica\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Mauro Cunha - Projeto_Aeronautica\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Mauro Cunha - Projeto_Aeronautica\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Mauro Cunha - Projeto_Aeronautica\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Mauro Cunha - Projeto_Aeronautica\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Mauro Cunha - Projeto_Aeronautica\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Mauro Cunha - Projeto_Aeronautica\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Mauro Cunha - Projeto_Aeronautica\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Mauro Cunha - Projeto_Aeronautica\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Mauro Cunha - Projeto_Aeronautica\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+C:\Users\Mauro Cunha\Desktop\Projeto Final OOP\Mauro Cunha - Projeto_Aeronautica\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll
